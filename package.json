@@ -10,8 +10,8 @@
     "build": "./nodebb build"
   },
   "dependencies": {
-  "nodebb": "^2.8.4"
-},
+  "nodebb": "git+https://github.com/NodeBB/NodeBB.git"
+}
   "engines": {
     "node": "18.x",
     "npm": "6.x"
