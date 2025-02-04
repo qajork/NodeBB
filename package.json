@@ -1,5 +1,5 @@
 {
-  "name": "nodebb",
+  "name": "nodebb-forum",
   "version": "1.18.0",
   "description": "NodeBB Forum Software",
   "main": "loader.js",
@@ -9,16 +9,14 @@
     "dev": "./nodebb dev",
     "build": "./nodebb build"
   },
-  "dependencies": {
-  "nodebb": "^14.0.2"
-},
+  "dependencies": {},
   "engines": {
     "node": "18.x",
     "npm": "8.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/NodeBB/NodeBB.git"
+    "url": "https://github.com/username/repository-name.git"
   },
   "keywords": [
     "forum",
