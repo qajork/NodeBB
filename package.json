@@ -10,10 +10,10 @@
     "build": "./nodebb build"
   },
   "dependencies": {
-  "nodebb": "^2.x.x"
+  "nodebb": "^2.8.9"
 },
   "engines": {
-    "node": "14.x",
+    "node": "18.x",
     "npm": "6.x"
   },
   "repository": {
