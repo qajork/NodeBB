@@ -1,0 +1,30 @@
+{
+  "name": "nodebb",
+  "version": "1.18.0",
+  "description": "NodeBB Forum Software",
+  "main": "loader.js",
+  "scripts": {
+    "start": "./nodebb start",
+    "install": "./nodebb setup",
+    "dev": "./nodebb dev",
+    "build": "./nodebb build"
+  },
+  "dependencies": {
+    "nodebb": "^1.18.0"
+  },
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NodeBB/NodeBB.git"
+  },
+  "keywords": [
+    "forum",
+    "nodebb",
+    "community"
+  ],
+  "author": "NodeBB Team",
+  "license": "GPL-3.0"
+}
