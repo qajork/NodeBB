@@ -10,7 +10,7 @@
     "build": "./nodebb build"
   },
   "dependencies": {
-  "nodebb": "^2.8.9"
+  "nodebb": "^2.8.4"
 },
   "engines": {
     "node": "18.x",
