@@ -1,0 +1,10 @@
+{
+    "url": "https://nodebb-13wp.onrender.com",
+    "secret": "your-secret-key",
+    "database": "redis",
+    "redis": {
+        "host": "red-cuglrcij1k6c73avackg",
+        "port": "6379",
+        "password":
+    }
+}
