@@ -1,6 +1,1 @@
-{
-    "url": "redis://red-https://nodebb-13wp.onrender.com",
-    "secret": "your-secret-key",
-    "database": "redis",
-    "redis": "redis://red-cuglrcij1k6c73avackg:6379"
-}
+
